@@ -3,7 +3,7 @@
 
 ```js
 const Spencer = {
-  greetings: "welcome to my profile 👋",
+  greetings: "Welcome to my profile 👋",
   name: "Spencer Smith",
   work: null,
   activity: "studying math",
