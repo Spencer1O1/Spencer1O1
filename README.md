@@ -49,7 +49,7 @@ const Spencer = {
 
 📊 &nbsp;**This week I spent my time on**
 
-<!--![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Spencer1O1&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)-->
+<figure><embed src="https://wakatime.com/share/@SpencerLS/2081ea8c-0c63-43eb-926b-0551fb499cca.svg"></embed></figure>
 
 <!--
 **Spencer1O1/Spencer1O1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
