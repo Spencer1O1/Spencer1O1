@@ -47,8 +47,6 @@ const Spencer = {
 | <a href="https://github.com/Spencer1O1"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Spencer1O1&count_private=true&hide=contribs,prs,issues&show_icons=true&theme=tokyonight" alt="Spencer's GitHub stats" /></a> | <a href="https://github.com/Spencer1O1"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spencer1O1&theme=tokyonight&layout=compact" alt="Top Languages"/></a> |
 | ------------- | ------------- |
 
-📊 &nbsp;**This week I spent my time on**
-
 <figure><embed src="https://wakatime.com/share/@SpencerLS/2081ea8c-0c63-43eb-926b-0551fb499cca.svg"></embed></figure>
 
 <!--
