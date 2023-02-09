@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Spencer1O1)
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=Spencer1O1)]
 [![wakatime](https://wakatime.com/badge/github/Spencer1O1/Spencer1O1.svg)](https://wakatime.com/badge/github/Spencer1O1/Spencer1O1)
 
 ```js
