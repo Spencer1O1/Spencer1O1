@@ -47,6 +47,10 @@ const Spencer = {
 | <a href="https://github.com/Spencer1O1"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Spencer1O1&count_private=true&hide=contribs,prs,issues&show_icons=true&theme=tokyonight" alt="Spencer's GitHub stats" /></a> | <a href="https://github.com/Spencer1O1"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spencer1O1&theme=tokyonight&layout=compact" alt="Top Languages"/></a> |
 | ------------- | ------------- |
 
+📊 &nbsp;**This week I spent my time on**
+
+<!--![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Spencer1O1&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)-->
+
 <!--
 **Spencer1O1/Spencer1O1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
