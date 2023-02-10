@@ -1,5 +1,5 @@
 <!--[![visitors](https://visitor-badge.glitch.me/badge?page_id=Spencer1O1)]-->
-[![wakatime](https://wakatime.com/badge/github/Spencer1O1/Spencer1O1.svg)](https://wakatime.com/badge/github/Spencer1O1/Spencer1O1)
+[![wakatime](https://wakatime.com/badge/user/9f55ab76-761d-4405-a90d-4b03aef0b066.svg)](https://wakatime.com/@9f55ab76-761d-4405-a90d-4b03aef0b066)
 
 ```js
 const Spencer = {
