@@ -8,7 +8,7 @@ const Spencer = {
   work: null,
   activity: "studying math",
   in: "fullstack development",
-  expertise: "backend"
+  expertise: "backend",
   currently: {
     workingOn: [
       "A website to show off my skills 💻",
