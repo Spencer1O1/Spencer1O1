@@ -5,14 +5,18 @@
 const Spencer = {
   greetings: "Welcome to my profile 👋",
   name: "Spencer Smith",
-  work: null,
+  work: {
+    company: "Get Success 101, LLC",
+    doing: "fullstack app development",
+  },
   activity: "studying math",
   in: "fullstack development",
   expertise: "backend",
-  currently: {
+  now: {
     workingOn: [
-      "A website to show off my skills 💻",
-      "Brushing up on Linear Algebra for ai"
+      "Re-creating an app for Academic Innovations, subcontracted by Get Success 101",
+      "Brushing up on Linear Algebra for ai",
+      "Finishing schoolwork for the last two classes of my AS degree"
     ],
     attending: ["Snow Canyon High School - Senior", "Utah Tech University - Sophomore/Junior"]
   },
