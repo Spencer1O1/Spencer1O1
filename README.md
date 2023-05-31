@@ -7,23 +7,37 @@ const Spencer = {
   name: "Spencer Smith",
   work: {
     company: "Get Success 101, LLC",
-    doing: "fullstack app development",
+    doing: "Fullstack app development",
   },
-  activity: "studying math",
-  in: "fullstack development",
-  expertise: "backend",
+  activity: "Building a website",
+  in: "Fullstack development",
+  expertise: "Backend",
   now: {
     workingOn: [
       "Re-creating an app for Academic Innovations, subcontracted by Get Success 101",
       "Brushing up on Linear Algebra for ai",
-      "Finishing schoolwork for the last two classes of my AS degree"
-    ],
-    attending: ["Snow Canyon High School - Senior", "Utah Tech University - Sophomore/Junior"]
+      "Creating a new website for a personal business"
+    ]
   },
+  graduatedFrom: [
+    {
+      institution: "Snow Canyon High School",
+      type: "High School Diploma",
+      year: "2023",
+      honors: ["Salutatorian", "Region Mathematics Sterling Scholar", "Eagle Warrior"]
+    },
+    {
+      institution: "Utah Tech University",
+      type: "Associate of the Sciences",
+      year: "2023",
+      personal-emphasis: "Mathematics"
+    }
+  ],
   findMeHere: [
+    { email: "spencerliamsmith@gmail.com" },
+    { website: "www.spencerls.dev" },
     { discord: "SpencerLS#2849" },
-    { linkedin: "linkedin.com/in/spencerliamsmith" },
-    { website: "www.spencerls.dev" }
+    { linkedin: "linkedin.com/in/spencerliamsmith" }
   ]
 };
 ```
