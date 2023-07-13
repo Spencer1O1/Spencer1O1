@@ -65,6 +65,7 @@ const Spencer = {
 <a href="https://aws.amazon.com" title="AWS"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="40px" height="40px"></a>
 <a href="https://spencerls.dev" title="Spencer LS"><img src="https://www.spencerls.dev/static/media/logo.8351d4f5b161090470909a00323a3afd.svg" alt="Spencer LS" width="40px" height="40px"></a>
 
+These stats are definitely wrong right now. No idea why.
 | <a href="https://github.com/Spencer1O1"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Spencer1O1&count_private=true&hide=contribs,prs,issues&show_icons=true&theme=tokyonight" alt="Spencer's GitHub stats" /></a> | <a href="https://github.com/Spencer1O1"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spencer1O1&theme=tokyonight&layout=compact" alt="Top Languages"/></a> |
 | ------------- | ------------- |
 
