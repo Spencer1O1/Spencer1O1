@@ -7,16 +7,16 @@ const Spencer = {
   name: "Spencer Smith",
   work: {
     company: "Get Success 101, LLC",
-    doing: "Fullstack app development",
+    doing: "Fullstack development",
   },
-  activity: "Building a website",
-  in: "Fullstack development",
-  expertise: "Backend",
+  activity: "Open source Rust",
+  in: ["Fullstack Development", "Systems Programming"],
+  expertise: "Backend / Servers",
   now: {
     workingOn: [
-      "Re-creating an app for Academic Innovations, subcontracted by Get Success 101",
-      "Brushing up on Linear Algebra for ai",
-      "Creating a new website for a personal business"
+      "Overhauling a web app for Academic Innovations, subcontracted by Get Success 101",
+      "Rust crate for getting an SDL canvas for the desktop wallpaper",
+      "Learning more systems programming"
     ]
   },
   graduatedFrom: [
@@ -65,7 +65,6 @@ const Spencer = {
 <a href="https://aws.amazon.com" title="AWS"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="40px" height="40px"></a>
 <a href="https://spencerls.dev" title="Spencer LS"><img src="https://www.spencerls.dev/static/media/logo.8351d4f5b161090470909a00323a3afd.svg" alt="Spencer LS" width="40px" height="40px"></a>
 
-These stats are definitely wrong right now. No idea why.
 | <a href="https://github.com/Spencer1O1"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Spencer1O1&count_private=true&hide=contribs,prs,issues&show_icons=true&theme=tokyonight" alt="Spencer's GitHub stats" /></a> | <a href="https://github.com/Spencer1O1"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spencer1O1&theme=tokyonight&layout=compact" alt="Top Languages"/></a> |
 | ------------- | ------------- |
 
