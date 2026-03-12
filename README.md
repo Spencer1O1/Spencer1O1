@@ -44,6 +44,7 @@ const Spencer = {
 
 <a href="https://linkedin.com/in/spencerliamsmith"><img src="https://img.shields.io/badge/LinkedIn-spencer--smith-blue"/></a>
 <a href="https://www.spencerls.dev/"><img src="https://img.shields.io/badge/Website-www.spencerls.dev-red"/></a>
+[![wakatime](https://wakatime.com/badge/user/9f55ab76-761d-4405-a90d-4b03aef0b066.svg)](https://wakatime.com/@9f55ab76-761d-4405-a90d-4b03aef0b066)
 
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="40px" height="40px"></a>
 <a href="https://reactnative.dev/" title="React Native"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React Native" width="40px" height="40px"></a>
@@ -63,8 +64,6 @@ const Spencer = {
 
 | <a href="https://github.com/Spencer1O1"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Spencer1O1&count_private=true&hide=contribs,prs,issues&show_icons=true&theme=tokyonight" alt="Spencer's GitHub stats" /></a> | <a href="https://github.com/Spencer1O1"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spencer1O1&theme=tokyonight&layout=compact" alt="Top Languages"/></a> |
 | ------------- | ------------- |
-
-<figure><embed src="https://wakatime.com/share/@SpencerLS/2081ea8c-0c63-43eb-926b-0551fb499cca.svg"></embed></figure>
 
 <!--
 **Spencer1O1/Spencer1O1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
