@@ -65,6 +65,12 @@ const Spencer = {
 | <a href="https://github.com/Spencer1O1"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Spencer1O1&count_private=true&hide=contribs,prs,issues&show_icons=true&theme=tokyonight" alt="Spencer's GitHub stats" /></a> | <a href="https://github.com/Spencer1O1"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spencer1O1&theme=tokyonight&layout=compact" alt="Top Languages"/></a> |
 | ------------- | ------------- |
 
+<a href="https://www.credly.com/badges/378b7b8e-f825-4636-af0f-2aad6d7f3753/public_url">
+  <img src="https://images.credly.com/size/200x200/images/7329299d-32ce-48ed-8527-b6db73f7e224/blob"
+       alt="Certified SOLIDWORKS Design Associate"
+       width="80">
+</a>
+
 <!--
 **Spencer1O1/Spencer1O1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
