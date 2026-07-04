@@ -6,17 +6,17 @@ const Spencer = {
   greetings: "Welcome to my profile 👋",
   name: "Spencer Smith",
   work: {
-    company: "Get Success 101, LLC",
+    company: "SiegeTag",
     doing: "Fullstack development",
   },
-  activity: "Open source Rust",
+  activity: "Maxxing my neovim config",
   in: ["Fullstack Development", "Systems Programming"],
   expertise: "Backend / Servers",
   now: {
     workingOn: [
-      "Overhauling a web app for Academic Innovations, subcontracted by Get Success 101",
-      "Rust crate for getting an SDL canvas for the desktop wallpaper",
-      "Learning more systems programming"
+      "Rubrical: Assignment checking plugin for canvas",
+      "Solvix: reporting problems with the click of a button",
+      "SiegeTag: Digital metagame for real-world sword-sport with NFC collectibles."
     ]
   },
   graduatedFrom: [
